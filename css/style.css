@@ -474,3 +474,17 @@ header .navbar a:hover{
     }
 
 }
+
+@media (max-width: 400px){
+
+	#icon{
+
+		top: 1550px;
+
+		left: 50%;
+
+		transform: translateX(-50%);
+
+	}
+
+}
